@@ -11,7 +11,7 @@ printf("Enter Age: ");
     scanf("%d", &age);
     printf("Age: %d\n", age);
     int score;
-printf(Enter Score: ");
+printf("Enter Score: ");
     scanf("%d", &score);
     printf("Score: %d\n", score);
 
