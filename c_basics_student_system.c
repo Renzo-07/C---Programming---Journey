@@ -3,12 +3,15 @@
 int main() {
     //Student Decision System
     char name[50];
+printf("Enter Name: ");
     scanf("%s", name);
     printf("Name: %s\n", name);
     int age;
+printf("Enter Age: ");
     scanf("%d", &age);
     printf("Age: %d\n", age);
     int score;
+printf(Enter Score: ");
     scanf("%d", &score);
     printf("Score: %d\n", score);
 
