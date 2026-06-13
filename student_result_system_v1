@@ -24,8 +24,7 @@ int main() {
     
     //CONTROL SECTION
     switch(option) {
-        
-        case 1:
+         case 1:
         printf("\nNAME: %s\n", name);
         printf("AGE: %d\n", age);
         printf("SCORE: %d\n", score);
