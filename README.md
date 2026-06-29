@@ -7,6 +7,7 @@ I started with the basics and gradually moved into structured problem solving us
 - input and output (scanf, printf)
 - conditional statements (if, else if, else)
 - switch statements
+- loops and control flow
 - simple console-based programs
 
 ---
@@ -33,8 +34,21 @@ Examples:
 - input/output programs
 - simple decision making
 - switch-based programs
+- loop practice
 
 ---
+
+## Projects
+Small console programs built by combining learned concepts
+
+Examples:
+- Student profile system
+- Student result system
+- Month selector
+- Number Analyzer
+
+
+
 
 ## Current Focus
 
@@ -42,12 +56,15 @@ Examples:
 - improving input handling
 - building small structured programs without reference
 - getting comfortable writing code from memory
+- strengthening control flow concepts
+- combining loops and conditions in projects
+- improving problem-solving skills
+- preparing for arrays and functions
 
 ---
 
 ## Future Plans
 
-- loops (for, while)
 - functions
 - arrays
 - larger mini-projects
