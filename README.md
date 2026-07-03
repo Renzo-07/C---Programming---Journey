@@ -8,6 +8,7 @@ I started with the basics and gradually moved into structured problem solving us
 - conditional statements (if, else if, else)
 - switch statements
 - loops and control flow
+- arrays and indexing
 - simple console-based programs
 
 ---
@@ -35,6 +36,7 @@ Examples:
 - simple decision making
 - switch-based programs
 - loop practice
+- arrays and indexing
 
 ---
 
@@ -59,14 +61,15 @@ Examples:
 - strengthening control flow concepts
 - combining loops and conditions in projects
 - improving problem-solving skills
-- preparing for arrays and functions
+- practicing arrays and index manipulation
+- strengthening loop and array problem solving
+- preparing for functions
 
 ---
 
 ## Future Plans
 
 - functions
-- arrays
 - larger mini-projects
 - basic data structures
 
